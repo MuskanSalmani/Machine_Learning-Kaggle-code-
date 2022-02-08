@@ -1,2 +1,2 @@
 # Machine_Learning-Kaggle-code-
-In this repository i have stored my Kaggle code #kaggle journey
+MY Kaggle code #kaggle journey
